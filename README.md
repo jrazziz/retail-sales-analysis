@@ -121,8 +121,7 @@ plain
 - 📧 Email: [Azizahmed1357@gmail.com](mailto:Azizahmed1357@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/jrazziz](https://linkedin.com/in/jrazziz)
 - 🐙 GitHub: [github.com/jrazziz](https://github.com/jrazziz)
-- 📊 **Kaggle Notebook:** [kaggle.com/jrazziz/retail-sales-analysis](https://www.kaggle.com/jrazziz/retail-sales-analysis)
-
+- 📊 **Kaggle Notebook:** [kaggle.com/code/mohamedfarag21/retail-sales-analysis](https://www.kaggle.com/code/mohamedfarag21/retail-sales-analysis)
 ---
 
 ## License
